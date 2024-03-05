@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexivany&theme=gotham&hide_border=true&exclude_days=Sun%2CSat&background=22272E)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexivany&theme=gotham&hide_border=true&exclude_days=Sun%2CSat&background=22272E" alt="GitHub Streak" /></a>
 
 <!--
 **alexivany/alexivany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
