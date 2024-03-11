@@ -1,7 +1,7 @@
-### Hi there, I'm Alex <img src="https://tenor.com/blOVi.gif" width="30" />
+### Hi there, I'm Alex 👋
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI4YTVucGQ4N281czZrOTkzeGxnM2FpdGpxcDkzd3ZxdWQ5OGdnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI4YTVucGQ4N281czZrOTkzeGxnM2FpdGpxcDkzd3ZxdWQ5OGdnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="400" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
