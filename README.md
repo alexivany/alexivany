@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there, I'm Alex 👋</h1> 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI4YTVucGQ4N281czZrOTkzeGxnM2FpdGpxcDkzd3ZxdWQ5OGdnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI4YTVucGQ4N281czZrOTkzeGxnM2FpdGpxcDkzd3ZxdWQ5OGdnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="250" />
 
 - 🖥️ I'm an aspiring Full Stack Developer
 - ✏️ I'm a student of [Get Coding](https://www.getcoding.ca/)'s coaching program, currently working through the React Module
