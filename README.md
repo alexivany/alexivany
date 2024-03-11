@@ -1,4 +1,4 @@
-### Hi there, I'm Alex 👋
+<h1 align="center">Hi there, I'm Alex 👋</h1> 
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI4YTVucGQ4N281czZrOTkzeGxnM2FpdGpxcDkzd3ZxdWQ5OGdnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="400" />
