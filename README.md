@@ -9,7 +9,7 @@
 - 🎶 I'm passionate about music and love experimenting with audio technology in my free time
 
 📧 I love hearing comments about my projects!
-You can reach me at alexander.ivany@gmail.com
+You can reach me at ivany.world@gmail.com
 
 ---
 
