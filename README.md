@@ -4,9 +4,9 @@
 
 
 
-- 🖥️ I'm a Front-end Developer
-- ✏️ I'm a student of [Get Coding](https://www.getcoding.ca/)'s coaching program, currently working through the React Module
-- 🎨 I love designing visually appealing web apps with a strong focus on user experience and usability
+- 🖥️ I'm a Full-stack Developer with an interest in building interfaces for AI interaction
+- ✏️ I'm a graduate of [Get Coding](https://www.getcoding.ca/)'s incredible coaching program
+- 🎨 I love designing visually appealing web apps with a strong focus on excellent user experiences
 - 🎶 I'm passionate about music and love experimenting with audio technology in my free time
 
 📧 I love hearing comments about my projects!
