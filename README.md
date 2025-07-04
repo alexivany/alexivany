@@ -18,7 +18,7 @@ You can reach me at ivany.world@gmail.com
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,p5js,html,css,tailwind,figma,vite,ps,ableton,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,p5js,supabase,html,css,tailwind,figma,vite,ps,ableton,windows)](https://skillicons.dev)
 
 ---
 
